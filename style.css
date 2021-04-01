@@ -1,0 +1,29 @@
+.pics{
+
+    display: flexbox;
+    justify-content: space-evenly;
+    border-color: darkslategray;
+}
+
+a:link{
+
+    color:darkblue
+
+}
+
+a:visited{
+
+    color:blueviolet
+
+}
+
+*{
+
+    background-color:greenyellow;
+
+    margin-top: 3%;
+
+    margin-left: 3%;
+
+    margin-right: 3%;
+}
